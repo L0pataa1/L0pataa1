@@ -42,7 +42,7 @@
             <stop offset="100%" stop-opacity=".75" />
         </radialGradient>
     </defs>
-    <rect width="850" height="510" rx="14" fill="url(#prefix__bezel-metallic)" stroke="#c084fc" />
+    <rect width="850" height="510" rx="14" fill="url(#prefix__bezel-metallic)" stroke="#ffffffc" />
     <rect x="6" y="6" width="838" height="498" rx="10" fill="none" stroke="#522a6b" stroke-width="1.5" opacity=".6" />
     <rect x="14" y="14" width="822" height="482" rx="8" fill="#0b0512" />
     <g opacity=".32">
